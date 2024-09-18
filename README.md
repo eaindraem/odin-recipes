@@ -1,0 +1,2 @@
+I am creating this README following the instructions from Odin Project. 
+Currently, I am able to start an HTML file with !. and I know some tags such as the <p> or <h1>-<h6> or <strong>. I don't really know much about CSS. I am excited to see how much I'll learn through this project. 
